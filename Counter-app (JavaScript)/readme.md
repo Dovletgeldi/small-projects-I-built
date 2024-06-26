@@ -23,11 +23,7 @@ You can try the app live here: https://667b6dca8f2f1ba776ddcc22--clinquant-zuccu
 If you want to run the app locally, follow these steps:
 
 1. Download this folder to your computer.
-2. pen `index.html` in your preferred web browser.
-
-## Contributing
-
-If you have suggestions or find any issues, feel free to open an issue or submit a pull request.
+2. Open `index.html` in your preferred web browser.
 
 ## License
 
