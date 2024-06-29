@@ -26,3 +26,7 @@ You can try the basketball scoreboard application live at the following link:
 ## License
 
 This project is licensed under the MIT License.
+
+![Screenshot 2024-06-29 031614](https://github.com/Dovletgeldi/small-projects-I-built/assets/44029974/277f817b-96fc-41ac-b1fa-49a740837374)
+
+
