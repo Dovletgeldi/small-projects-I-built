@@ -1,7 +1,3 @@
-Sure! Here is the updated `README.md` file with a "Try It Live" section:
-
----
-
 # Basketball Scoreboard Application
 
 This application is a digital scoreboard used to track scores for two teams: "HOME" and "GUEST". The interface allows users to increment and decrement the score using various buttons.
