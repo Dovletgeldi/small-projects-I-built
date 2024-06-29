@@ -1,0 +1,75 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.cdnfonts.com/css/cursed-timer-ulil"
+      rel="stylesheet"
+    />
+    <title>Basketball Scoreboard</title>
+  </head>
+  <body>
+    <html>
+      <head>
+        <link rel="stylesheet" href="index.css" />
+      </head>
+      <body>
+        <div class="container">
+          <div class="box">
+            <h3 class="title">HOME</h3>
+            <div class="scoreboard-box">
+              <button class="reset-btn" onclick="resetHome()">
+                <span>R</span>
+                <span>E</span>
+                <span>S</span>
+                <span>E</span>
+                <span>T</span>
+              </button>
+              <div class="scoreboard-bg">
+                <p id="score-home">0</p>
+              </div>
+            </div>
+            <div class="score-ctrl">
+              <button class="score-btn" onclick="add1Home()">+1</button>
+              <button class="score-btn" onclick="add2Home()">+2</button>
+              <button class="score-btn" onclick="add3Home()">+3</button>
+            </div>
+            <div class="score-ctrl">
+              <button class="score-btn" onclick="subtract1Home()">-1</button>
+              <button class="score-btn" onclick="subtract2Home()">-2</button>
+              <button class="score-btn" onclick="subtract3Home()">-3</button>
+            </div>
+          </div>
+          <div class="box">
+            <h3 class="title">GUEST</h3>
+            <div class="scoreboard-box">
+              <div class="scoreboard-bg">
+                <p id="score-guest">0</p>
+              </div>
+              <button class="reset-btn" onclick="resetGuest()">
+                <span>R</span>
+                <span>E</span>
+                <span>S</span>
+                <span>E</span>
+                <span>T</span>
+              </button>
+            </div>
+
+            <div class="score-ctrl">
+              <button class="score-btn" onclick="add1Guest()">+1</button>
+              <button class="score-btn" onclick="add2Guest()">+2</button>
+              <button class="score-btn" onclick="add3Guest()">+3</button>
+            </div>
+            <div class="score-ctrl">
+              <button class="score-btn" onclick="subtract1Guest()">-1</button>
+              <button class="score-btn" onclick="subtract2Guest()">-2</button>
+              <button class="score-btn" onclick="subtract3Guest()">-3</button>
+            </div>
+          </div>
+        </div>
+        <script src="index.js"></script>
+      </body>
+    </html>
+  </body>
+</html>
