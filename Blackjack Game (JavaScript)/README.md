@@ -20,7 +20,7 @@ You can try the Blackjack game live at the following link:
 
 [Try It Live](https://66817954c64fca10f9727a8a--stellar-cassata-f46d6e.netlify.app/)
 
-## Screenshots
+## Screenshot
 
 ![Blackjack Game](images/image.png)
 
