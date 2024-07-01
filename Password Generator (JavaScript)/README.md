@@ -27,7 +27,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## Screenshots
 
-![Blackjack Game](/image.png)
+![Password Generator](image.png)
 
 ## License
 
